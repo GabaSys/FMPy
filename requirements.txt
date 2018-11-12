@@ -3,6 +3,6 @@ lxml
 matplotlib
 numpy
 pathlib
-pyqt
+PyQt5
 pyqtgraph
 requests

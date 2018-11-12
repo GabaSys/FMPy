@@ -1,0 +1,8 @@
+dask
+lxml
+matplotlib
+numpy
+pathlib
+pyqt
+pyqtgraph
+requests

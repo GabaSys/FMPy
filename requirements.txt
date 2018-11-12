@@ -6,3 +6,4 @@ pathlib
 PyQt5
 pyqtgraph
 requests
+wheel
